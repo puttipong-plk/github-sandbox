@@ -8,8 +8,8 @@
 
 #import "ViewController.h"
 #import <CoreLocation/CoreLocation.h>
-#define HEADING_TIMEOUT 35
-#define THRESHOLD_ALPHA 2
+#define HEADING_TIMEOUT 30
+#define THRESHOLD_ALPHA 1.5
 
 @interface ViewController ()
 {
