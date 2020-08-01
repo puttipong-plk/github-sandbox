@@ -21,6 +21,8 @@
     BOOL previousIsNeg;
     
     BOOL isFirst;
+    
+    BOOL isok;
 }
 
 @end
